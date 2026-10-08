@@ -2,4 +2,5 @@
 2.217506d
 3.9
 4.git log --oneline --graph --all --decorate
-5COMMENDE POUR ANNULER UN COMMIT:git reset --soft HEAD~1
+5.COMMENDE POUR ANNULER UN COMMIT:git reset --soft HEAD~1
+6. git revert HEAT
